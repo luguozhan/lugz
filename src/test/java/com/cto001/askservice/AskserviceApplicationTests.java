@@ -11,7 +11,6 @@ public class AskserviceApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("123");
 	}
 
 }
